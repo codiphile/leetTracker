@@ -26,11 +26,3 @@ To get started with LeetTracker, follow these steps:
 
 1. Enter your LeetCode username in the input field.
 2. Click the "Search" button to view your stats.
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License.
